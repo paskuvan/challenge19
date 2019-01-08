@@ -3,6 +3,7 @@ class Semana
   def self.primer_dia
     @@primer_dia
   end
+
   def self.en_un_meses
     "Un mes tiene 4 semanas."
   end
